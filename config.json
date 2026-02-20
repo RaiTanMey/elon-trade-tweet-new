@@ -6,6 +6,6 @@
   "max_trades_per_run": 6,
   "exit_threshold": 0.50,
   "slippage_max_pct": 0.05,
-  "min_position_usd": 2.00,
+  "min_position_usd": 1.00,
   "data_source": "xtracker"
 }
