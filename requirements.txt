@@ -1,4 +1,6 @@
 simmer-sdk
 eth-account
+py-clob-client
+py-order-utils
 
 
